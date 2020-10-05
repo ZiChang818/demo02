@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">demo02</string>
+    <string name="button11_name">one_one</string>
+    <string name="button12_name">one_two</string>
+    <string name="button13_name">one_three</string>
+    <string name="button14_name">one_four</string>
+    <string name="button21_name">two_one</string>
+    <string name="button22_name">two_two</string>
+    <string name="button23_name">two_three</string>
+    <string name="button24_name">two_four</string>
+    <string name="button31_name">three_one</string>
+    <string name="button32_name">three_two</string>
+    <string name="button33_name">three_three</string>
+    <string name="button34_name">three_four</string>
+    <string name="button41_name">four_one</string>
+    <string name="button42_name">four_two</string>
+    <string name="button43_name">four_three</string>
+    <string name="button44_name">four_four</string>
+</resources>
