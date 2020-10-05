@@ -61,11 +61,11 @@ Strings配置
 
 1、线性布局浏览
 
-![imag]()
+![imag](https://github.com/ZiChang818/demo02/blob/master/photo/%E7%BA%BF%E6%80%A7%E5%B8%83%E5%B1%80%E6%B5%8F%E8%A7%88%E3%80%81.png)
 
 2、线性布局运行
 
-![imag]()
+![imag](https://github.com/ZiChang818/demo02/blob/master/photo/%E7%BA%BF%E6%80%A7%E5%B8%83%E5%B1%80%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)
 
 
 
@@ -173,11 +173,11 @@ Strings配置
 
 1、约束布局浏览
 
-![imag]()
+![imag](https://github.com/ZiChang818/demo02/blob/master/photo/%E7%BA%A6%E6%9D%9F%E5%B8%83%E5%B1%80%E6%B5%8F%E8%A7%88.png)
 
 2、约束布局运行
 
-![imag]()
+![imag](https://github.com/ZiChang818/demo02/blob/master/photo/%E7%BA%A6%E6%9D%9F%E5%B8%83%E5%B1%80%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)
 
 
 
@@ -262,8 +262,8 @@ Strings配置
 
 1、表格布局浏览
 
-![image]()
+![image](https://github.com/ZiChang818/demo02/blob/master/photo/%E8%A1%A8%E6%A0%BC%E5%B8%83%E5%B1%80%E6%B5%8F%E8%A7%88.png)
 
 2、表格布局运行
 
-![image]()
+![image](https://github.com/ZiChang818/demo02/blob/master/photo/%E8%A1%A8%E6%A0%BC%E5%B8%83%E5%B1%80%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)
